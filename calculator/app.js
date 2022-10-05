@@ -1,6 +1,7 @@
 
 
 
+
 //bmi formula  
 
 //metric  weight / height ^  2
@@ -26,14 +27,10 @@ function calculatebmi() {
     let imperialbmi = (weight / (height * height) * 703)
     let metricbmi = (weight / (weight * height))
 
-    // document. getElementById('message').innerHTML = 'You are underwdight'
   
     console.log(metricbmi)
 
 }
-
-//calculate
-//output
 
 
 
