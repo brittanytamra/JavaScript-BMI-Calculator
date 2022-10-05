@@ -5,8 +5,8 @@ Description: This project I submitted doing the Front-End Engineering Course onl
 
 
 Requirements:
--Enter values for height, weight, gender and age
--Show the result for the computation in the BMI result section
+1. Enter values for height, weight, gender and age
+2. Show the result for the computation in the BMI result section
 
 BMI Formula:
 
